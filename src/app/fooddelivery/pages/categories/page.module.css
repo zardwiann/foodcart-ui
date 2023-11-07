@@ -1,0 +1,11 @@
+ 
+.horizontal_scrollable {
+    overflow-x: auto;
+    white-space: nowrap;
+    padding: 5px;
+    border: none;
+   
+  }
+  
+   
+   
