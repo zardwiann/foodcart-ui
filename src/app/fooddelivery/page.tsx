@@ -7,9 +7,9 @@ import Footer from './component/footer/page';
 
 export default function Home() {
     return (
-        <section className='container-fluid mt-5'>
-             <Categories/>
-             
+        <section className='container mt-5'>
+            <Categories />
+
         </section>
     )
 }

@@ -6,7 +6,7 @@ import Footer from '../../component/footer/page'
 
 export default function Categories() {
       return (
-            <section>
+            <div className='container'>
                   <div className="m-2">
                         <div className='mt-4'>
                               <h4 className='p-2'>Categories</h4>
@@ -27,7 +27,7 @@ export default function Categories() {
                   </div>
                   <MostPopular></MostPopular>
                   <Footer/>
-            </section>
+            </div>
 
 
 

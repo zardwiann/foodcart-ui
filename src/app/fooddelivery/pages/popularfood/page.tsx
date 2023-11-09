@@ -4,7 +4,7 @@ import ImageComponent from "../../component/ImageComponent/page";
 
 export default function MostPopular() {
     return (
-        <div className="m-2">
+        <div className="container">
             <h4 className='p-2'>Most Popular</h4>
             <div className="row row-cols-2 g-3">
                 <ImageComponent

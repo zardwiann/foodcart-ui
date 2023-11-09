@@ -36,6 +36,9 @@ export default function RestaurantList() {
                     location=" sunt eaque eos aspernatur ipsa culpa provident."
                 />
             </div>
+
+
+            
             <Footer/>
         </section>
 
